@@ -1,2 +1,2 @@
 # node-js
-try making up with node js
+try making app with node js
